@@ -1,6 +1,18 @@
 {
   "spider": "",
-  "sites": [],
+  "sites": [
+    {
+      "key": "example_source_01",
+      "name": "示例已授权数据源",
+      "type": 1,
+      "api": "https://example.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 0,
+      "priority": 100,
+      "timeout": 10
+    }
+  ],
   "parsers": [],
   "flags": [
     "youku",

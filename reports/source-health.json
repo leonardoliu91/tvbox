@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-08-21T15:15:17.825135+00:00",
+  "sources": [
+    {
+      "key": "example_source_01",
+      "name": "示例已授权数据源",
+      "url": "https://example.com/api.php/provide/vod/",
+      "http_status": 404,
+      "response_time_ms": null,
+      "content_type": null,
+      "valid": false,
+      "status": "offline",
+      "error": "HTTPError: Not Found"
+    }
+  ]
+}
